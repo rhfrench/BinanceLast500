@@ -1,0 +1,13 @@
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\bin\Debug\Last500Trades.exe.config
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\bin\Debug\Last500Trades.exe
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\bin\Debug\Last500Trades.pdb
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.csprojResolveAssemblyReference.cache
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.Form1.resources
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.Properties.Resources.resources
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.csproj.GenerateResource.cache
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.csproj.CoreCompileInputs.cache
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.exe
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.pdb
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ryanf\source\repos\Last500Trades\Last500Trades\obj\Debug\Last500Trades.csproj.CopyComplete
